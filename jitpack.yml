@@ -1,5 +1,5 @@
 ﻿jdk:
-  - oraclejdk7
+  - oraclejdk8
 install:
    - echo "Running a custom install command"
    - mvn clean install -DskipTests
